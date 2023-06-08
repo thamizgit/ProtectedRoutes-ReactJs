@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProtectedRoutes-ReactJs/static/css/main.97896988.css",
+    "main.js": "/ProtectedRoutes-ReactJs/static/js/main.de2d1531.js",
+    "index.html": "/ProtectedRoutes-ReactJs/index.html",
+    "main.97896988.css.map": "/ProtectedRoutes-ReactJs/static/css/main.97896988.css.map",
+    "main.de2d1531.js.map": "/ProtectedRoutes-ReactJs/static/js/main.de2d1531.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97896988.css",
+    "static/js/main.de2d1531.js"
+  ]
+}
